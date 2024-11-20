@@ -1,3 +1,4 @@
 laptop purchased = 100
 Mouse purchased = 200
 Kyboard purchased = 50
+monitors purchased = 100
